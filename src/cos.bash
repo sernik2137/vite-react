@@ -1,1 +1,5 @@
-npm install react-router-dom
+node -v
+npm -v
+
+
+pm install react-router-dom
